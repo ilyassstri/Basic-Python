@@ -7,6 +7,8 @@
     is_admin
 """
 
+print("Hello Dunia")
+
 user = {
     "name" : "M. Ilyas Tri Khaqiqi",
     "Age" : 20,
