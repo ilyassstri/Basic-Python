@@ -20,7 +20,7 @@ user["username"] = "Muhammad Ilyas"
 user["name"] = "M. Ilyas Tri Khaqiqi, M.T, Ph.D"
 
 temp1 = user.get("username", "ilyassstri")
-temp = user.get("name")
+temp = user.get("name", "Age")
 
 print("")
 print(temp1)
