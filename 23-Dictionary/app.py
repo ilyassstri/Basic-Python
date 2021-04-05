@@ -8,6 +8,7 @@
 """
 
 print("Hello Dunia")
+print("Mencoba lagi")
 
 user = {
     "name" : "M. Ilyas Tri Khaqiqi",
