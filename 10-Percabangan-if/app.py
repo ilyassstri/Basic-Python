@@ -1,13 +1,13 @@
 """ Contoh 1 """
-# is_day = False # ciri khas boolean memakai is dan bila dua kata memakan underscorse
-# is_night = False
+is_day = False # ciri khas boolean memakai is dan bila dua kata memakan underscorse
+is_night = True
 
-# if is_day:
-#     print("Selamat siang")
-# elif is_night:
-#     print("Selamat malam")
-# else:
-#     print("Selamat bersenang-senang")
+if is_day:
+    print("Selamat siang")
+elif is_night:
+    print("Selamat malam")
+else:
+    print("Selamat bersenang-senang")
 
 """ Contoh 2 """
 is_day = False

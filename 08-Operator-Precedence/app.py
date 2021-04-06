@@ -12,3 +12,5 @@ urutan perhitungan matematika
 - penjumlahan
 - pengurangan
 """
+
+""" Untuk mementukan perhitungan harus diperhatikan dulu cara perhitungannya agar tepat. """

@@ -11,7 +11,7 @@ print(Message)
 Message = f"{first_name} [{last_name}]" 
 print(Message)
 
-Message = f"{hobby} every where"
+Message = f"{hobby} every where "
 print(Message)
 
 age = 31
