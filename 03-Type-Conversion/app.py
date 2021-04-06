@@ -1,3 +1,8 @@
+""" 
+    Konversi ini adalah untuk mengubah type data menjadi type data lain dengan beberapa method yang sudah disediakan oleh python.
+    Kenapa harus di konversi dulu? Karena agar bisa disandingkan dengan kebutuhan.
+"""
+
 year = input("Tahun lahir: ")
 
 # print(type(year))
