@@ -1,25 +1,25 @@
 # Contoh 1 
-# numbers = [1, 2, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+numbers = [1, 2, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
-# for item in numbers:
-#     if item % 3 :
-#         print(item)
+for item in numbers:
+    if item % 3 :
+        print(item)
 
 # Contoh 2
-# for item in range(1, 11):
-#     print(item)
+for item in range(1, 11):
+    print(item)
 
 # Contoh 3
-# for item in range(1, 11, 2):
-#     print(item)
+for item in range(1, 11, 2):
+    print(item)
 
 # print('Numbers from 1 to 100:')
 # for n in range(1, 101):
 #     if n % 3 :
 #         print(n)
-        # if n % 3 and 5 :
-        #     print(n)
-    # print(n, end=' ')
+#         if n % 3 and 5 :
+#             print(n)
+#     print(n, end=' ')
 
 # Take a list of numbers
 # my_list = [1, 2, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -47,7 +47,6 @@
 
 # print(even_or_odd)
 # Output: ["ODD", "EVEN", "ODD", "EVEN", "ODD", "EVEN", "ODD", "EVEN", "ODD", "EVEN"]
-
 
 
 my_list = []

@@ -9,3 +9,14 @@ halo_user("ilyas", "20")
 print("======================")
 halo_user("tri", 20)
 print("Finish")
+
+
+print("============== Latihan Membuat Fungsi ==============")
+def sapa_orang(nama_orang, hobi):
+    print(f"Halo {nama_orang} - {hobi}")
+    print("Salam kenal bro!!!")
+
+# Panggil function / fungsinya
+sapa_orang("trikhaqiqi", "ngoding")
+
+print("Selesai")

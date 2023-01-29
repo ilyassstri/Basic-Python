@@ -17,4 +17,4 @@ def multiply(a, b):
 # output
 
 result = multiply(2, 30)
-print(result ) # hasil yang diinginkan = 2 * 10 = 20
+print(result) # hasil yang diinginkan = 2 * 10 = 20

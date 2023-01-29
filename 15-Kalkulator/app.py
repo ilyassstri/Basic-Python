@@ -7,7 +7,7 @@ while command != "exit":
     if command == "exit":
         break
 
-    if command != "+" and command != "-" and command != "*" and command != "/":
+    if command != "+" and command != "-" and command != "*" and command != "/" and command != "%":
         print("Perintah tidak diketahui")
         continue
 
@@ -22,6 +22,8 @@ while command != "exit":
         result = a * b
     elif command == "/":
         result = a / b
+    elif command == "%":
+        result = a % b
 
     print(f"Hasil : {result}")
 
