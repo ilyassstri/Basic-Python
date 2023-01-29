@@ -5,11 +5,11 @@
 
 year = input("Tahun lahir: ")
 
-# print(type(year))
+print(type(year))
 year = int(year)
 # print(type(year))
 
-age = 2021 - year
+age = 2023 - year
 
 print("Umur kamu adalah " + str(age))
 

@@ -14,3 +14,6 @@ print(product_name)
 
 is_discount = True
 print(is_discount)
+
+if is_discount == True:
+    print("Lagi diskon cuy!")

@@ -1,36 +1,38 @@
-# result = 4 > 3
-# print(result)
-
-# result = 4 < 3
-# print(result)
-
-# result = 4 >= 3
-# print(result)
-
-# result = 4 <= 3
-# print(result)
-
-# result = 4 == 3
-# print(result)
-
-# result = 4 != 3
-# print(result)
-
 """ Contoh 1 """
 
-# grade = 5
+result = 4 > 3
+print(result)
 
-# if grade >= 8:
-#     print("Nilai kamu A")
-# elif grade >= 7:
-#     print("nilai kamu B")
-# elif grade >= 6:
-#     print("nilai kamu C")
-# else:
-#     print("Kamu harus mengulang kelas")
+result = 4 < 3
+print(result)
 
+result = 4 >= 3
+print(result)
+
+result = 4 <= 3
+print(result)
+
+result = 4 == 3
+print(result)
+
+result = 4 != 3
+print(result)
 
 """ Contoh 2 """
+
+grade = 5
+
+if grade >= 8:
+    print("Nilai kamu A")
+elif grade >= 7:
+    print("nilai kamu B")
+elif grade >= 6:
+    print("nilai kamu C")
+else:
+    print("Kamu harus mengulang kelas")
+
+
+""" Contoh 3 """
 
 IPK = 2
 

@@ -24,7 +24,9 @@ print("#### Latihan BRO ####")
 club_favorite = "Persib Bandung juara!!!"
 tes_upper = club_favorite.upper()
 tes_lower = club_favorite.lower()
+test_replace = club_favorite.replace("Persib Bandung", "Persija Jakarta" )
 
 print(club_favorite)
 print(tes_upper)
 print(tes_lower)
+print(test_replace)
