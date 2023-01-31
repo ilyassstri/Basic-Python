@@ -2,7 +2,7 @@
 try:
     level = input("Level kamu :")
     level = int(level)
-    # level = level / 0
+    level = level / 0
     print(level)
 except ZeroDivisionError:
     print("Angka yang kamu masukkan tidak bisa dibagi 0")
