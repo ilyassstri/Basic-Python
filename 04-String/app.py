@@ -6,6 +6,7 @@ npm = "1194050"
 kelas = "D4-Teknik Informatika"
 almamater = "Politeknik Pos Indonesia"
 npwp = "298123123988"
+ipk = "3.75"
 
 print(name[0:13], npm[0:3], kelas, almamater[11:15], npwp[8:12] )
 
