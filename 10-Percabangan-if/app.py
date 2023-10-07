@@ -3,7 +3,7 @@ is_day = False # ciri khas boolean memakai is dan bila dua kata memakan undersco
 is_night = True
 
 if is_day:
-    print("Selamat siang bro bro")
+    print("Selamat siang bro bro bro")
 elif is_night:
     print("Selamat malam")
 else:
