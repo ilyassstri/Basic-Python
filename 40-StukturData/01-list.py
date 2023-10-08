@@ -6,7 +6,7 @@ print(List[0])
 
 # Creating a List with 
 # the use of multiple values 
-List = ["Ngoding", "Cuy!", "Ngoding"] 
+List = ["Ngoding", "Cuy!", "Ngodinggg"] 
 print("\nList containing multiple values: ") 
 print(List)
   
