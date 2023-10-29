@@ -13,5 +13,8 @@ while trying < limit:
     if trying == 2:
         print("Kamu kalah")
 
+    if guess_number != 7 and trying != 2:
+        print("jawaban kurang tepat")
+
     # trying = trying + 1
     trying += 1
