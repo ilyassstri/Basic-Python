@@ -30,3 +30,7 @@ print(club_favorite)
 print(tes_upper)
 print(tes_lower)
 print(test_replace)
+
+motohidup = "Menjadi orang kaya agar bisa terus bijak dan membuat kebaikan"
+print(motohidup)
+print(len(motohidup))

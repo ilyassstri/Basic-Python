@@ -19,9 +19,12 @@ print(a + b * c)
 """
 Harus diingat kalau dalam operasi matematika ataupun di dalam kodingan.
 urutan yang dieksekusi terlebih dahulu adalah :
-1. kurung
-2. Pangkat
-3. Perkalian dan pembagian 
-4. Penjumlahan dan pengurungan
+urutan perhitungan matematika 
+- kurung
+- perpangkatan
+- perkalian
+- pembagian
+- penjumlahan
+- pengurangan
 
 """
