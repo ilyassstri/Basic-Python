@@ -25,3 +25,7 @@ print(a)
 
 
 
+campurans = (1, "dua", 3, "empat")
+
+a, b, c, d = campurans
+print(d)

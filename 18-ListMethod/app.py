@@ -1,5 +1,6 @@
 numbers = [5, 6, 7, 8, 1]
 print(numbers)
+print("angka asli")
 
 numbers.append(99) # Menambahkan nomber di urutan paling belakang.
 print(numbers)

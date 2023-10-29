@@ -18,9 +18,11 @@ user = {
 
 name = user["name"]
 age = user["Age"]
+is_admin = user["is_admmin"]
 
 print(name)
 print(age)
+print(is_admin)
 
 user["username"] = "Muhammad Ilyas"
 user["name"] = "M. Ilyas Tri Khaqiqi, M.T, Ph.D"
