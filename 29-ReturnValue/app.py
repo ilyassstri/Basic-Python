@@ -18,3 +18,9 @@ def multiply(a, b):
 
 result = multiply(2, 30)
 print(result) # hasil yang diinginkan = 2 * 10 = 20
+
+def coba_fungsi_return(test):
+    return test 
+
+test = coba_fungsi_return("hello world")
+print(test)
