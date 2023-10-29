@@ -1,4 +1,17 @@
-""" Contoh 1 """
+"""
+HARUS DIINGAT OPERATOR PERBANDINGAN :
+==          : sama dengan
+===         : identik
+!=          : tidak sama
+!==         : tidak identik
+<>          : tidak sama --> ini tidak bisa dilakukan di kodingan boy
+>           : lebih besar dari
+<           : lebih kecil dari
+>=          : lebih besar dari sama dengan
+<=          : lebih kecil dari sama dengan
+"""
+
+print(""" Contoh 1 """)
 
 result = 4 > 3
 print(result)
@@ -18,7 +31,7 @@ print(result)
 result = 4 != 3
 print(result)
 
-""" Contoh 2 """
+print(""" Contoh 2 """)
 
 grade = 5
 
@@ -32,7 +45,7 @@ else:
     print("Kamu harus mengulang kelas")
 
 
-""" Contoh 3 """
+print(""" Contoh 3 """)
 
 IPK = 2
 
