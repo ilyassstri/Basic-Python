@@ -1,8 +1,8 @@
 import cowsay
 
 # cowsay.cow("Selamat Malam Mingguan!")
-# cowsay.dragon("Hidup itu berat, tapi tetep jangan dibawa pusing. semangat dan jangan menyerah adalah kunci kehidupan. salam semangat dari naga!!")
-cowsay.ghostbusters("Hidup itu berat, tapi tetep jangan dibawa pusing. semangat dan jangan menyerah adalah kunci kehidupan. salam semangat dari naga!!")
+cowsay.dragon("Hidup itu berat, tapi tetep jangan dibawa pusing. semangat dan jangan menyerah adalah kunci kehidupan. salam semangat dari naga!!")
+# cowsay.ghostbusters("Hidup itu berat, tapi tetep jangan dibawa pusing. semangat dan jangan menyerah adalah kunci kehidupan. salam semangat dari naga!!")
 
 
 # cara membuat virtualenvirontment di python cukup mengetikkan : python3 -m venv my-env, my-env adalah nama environtnya itu sebenarnya bebas.
