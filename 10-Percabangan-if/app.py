@@ -21,5 +21,13 @@ else:
     print("Saatnya begadang tugas banyakkk cuy!")
 
 # print("Selamat menikmati harimu")
+gaji_bulanan = 10
+cicilan_motor = 2000000
+if gaji_bulanan > cicilan_motor:
+    print("motor akan terbeli")
+elif gaji_bulanan == 0:
+    print("mikir tolol")
+elif gaji_bulanan <= cicilan_motor:
+    print("harus mencari penghasilan tambahan")
 
 
