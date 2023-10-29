@@ -20,3 +20,10 @@ def sapa_orang(nama_orang, hobi):
 sapa_orang("trikhaqiqi", "ngoding")
 
 print("Selesai")
+
+print("Latihan membuat fungsi")
+
+def running_code(value, number):
+    print(f"result {value} - {number}")
+
+running_code("jatuh", "parah")
