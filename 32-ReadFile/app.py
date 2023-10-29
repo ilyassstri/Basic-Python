@@ -1,11 +1,11 @@
 # cara membaca sebuah isi dari file text
 
 users = open("users.txt", "r")
-# print(users.read())
-# print(users.readline())
+print(users.read())
+print(users.readline())
 array = users.readlines()
 
-# print(array[2])
+# print(array[1])
 
 index = 1
 for user in array:
