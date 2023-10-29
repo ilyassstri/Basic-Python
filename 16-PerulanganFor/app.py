@@ -71,3 +71,14 @@ for number in my_list:
 
 print(kosong)
 
+print("ini contoh lainnya")
+# print('Numbers from 1 to 100:')
+for n in range(1, 101):
+    # if n % 3 :
+    #     print(n)
+    #     if n % 3 and 5 :
+    #         print(n)
+    print(n, end=' ')
+
+for n in range(1000, 3000):
+    print(n, end=" ")
