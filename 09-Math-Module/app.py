@@ -20,3 +20,14 @@ print(number3)
 number4 = 6.2
 number4 = math.ceil(number4)
 print(number4)
+
+# cara mengatahui nilai tan 
+nilai = 90
+nilai = math.tan(nilai)
+print(nilai)
+
+"""
+Catatan penting
+kalau ingin memanggil fungsi dari library di python :
+namalibrari.panggilfungsinya lalu masukkan nilai yang akan dipanggilnya -> contohnya : nilai = math.tan(nilai)
+"""
