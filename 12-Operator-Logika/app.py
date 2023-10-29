@@ -40,3 +40,13 @@ else:
     False and True = Flase
     True and True = True
 """
+
+ipk = 1.00
+if ipk >= 3.50:
+    print("Pujian")
+elif ipk >= 3.00:
+    print("sangat memuaskan")
+elif ipk >= 2.50:
+    print("memuaskan")
+else:
+    print("tanpa predikat")
